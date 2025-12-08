@@ -43,11 +43,11 @@ The visualizations were created from public data. Specifically, the data used co
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/blob/main/bfro_reports_fall2022.csv" text="The Data" %}
+{% include elements/button.html link="https://catalog.data.gov/dataset/crime-incidents-in-2024" text="The Data" %}
 </div>
 
 
 <div class="right">
-{% include elements/button.html link="https://github.com/StevenWu1/StevenWu1.github.io/blob/main/python_notebooks/HW5.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/StevenWu1/StevenWu1.github.io/blob/main/python_notebooks/FinalPart31.ipynb" text="The Analysis" %}
 </div>
 
