@@ -1,7 +1,7 @@
 ---
 name: Crime in DC Final Project
 tools: [Python, HTML, vega-lite, Altair]
-image: assets/pngs/cars.png
+image: assets/pngs/DC.png
 description: An interactive data visualization article aimed to explore reported crime in Washington, DC. where Readers can explore crime by offense, ward, shift, and month.
 custom_js:
   - vega.min
