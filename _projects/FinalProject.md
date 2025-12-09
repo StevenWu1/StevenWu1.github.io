@@ -16,7 +16,7 @@ custom_js:
 
 ## Central Visualization: Crime map and Ward Offense Counts
 The following plot was generated with a URL link to the data
-<vegachart schema-url="{{ site.baseurl }}/assets/json/crime_map.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/crime_map2.json" style="width: 100%"></vegachart>
 
 This main visualization shows reported crimes across DC. Each point represents a reported crime, colored by offense type. Users can filter by selecting a specific offense from the dropdown menu. The barchart attached also shows the number of offenses in each ward broken down by the shift when the crime was committed. This visualization allows readers to quickly see which areas experience more crime, what type of offenses are most common in each ward, and when the type of offense is generally committed.
 
