@@ -14,8 +14,6 @@ custom_js:
 # Crime in Washington, DC: Patterns and Insights
 **Authors:** Steven Wu
 
-Bigfoot Sightings Interactive Visualizations
-
 ## Central Visualization: Crime map and Ward Offense Counts
 The following plot was generated with a URL link to the data
 <vegachart schema-url="{{ site.baseurl }}/assets/json/crime_map.json" style="width: 100%"></vegachart>
